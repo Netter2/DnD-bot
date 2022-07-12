@@ -202,4 +202,4 @@ async def roll (ctx, *args):
     else:
         await ctx.send (f'{ctx.message.author.mention} выкинул {make_roll_history (messageBuffer)} = {message}')
 
-bot.run ('Bot_token')
+bot.run ('Bot_token')#В целях безопасности токен бота не должен выкладываться в открытые источники.
