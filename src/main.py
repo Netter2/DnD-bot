@@ -202,4 +202,4 @@ async def roll (ctx, *args):
     else:
         await ctx.send (f'{ctx.message.author.mention} выкинул {make_roll_history (messageBuffer)} = {message}')
 
-bot.run ('OTkyMTM5MjU2MTk5OTIxNzA0.GiPBu5.WvxGPZofpmti9BC30wO3Ze-2K6AldC7Ymk0Kgc')
+bot.run ('OTkyMTM5MjU2MTk5OTIxNzA0.GYDEnX.4lO9vFnKmiua_5E7MtgNmfxhwAZjtg52-iZC9c')
